@@ -1,6 +1,7 @@
 # githubactiontest
 
 ![example workflow](https://github.com/bjtj/githubactiontest/actions/workflows/python-unittest.yml/badge.svg)
+![python unittest workflow dev branch](https://github.com/bjtj/githubactiontest/actions/workflows/python-unittest.yml/badge.svg?branch=dev)
 
 ## PyTest
 
