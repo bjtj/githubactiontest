@@ -1,6 +1,6 @@
 # Github Action Test
 
-![example workflow](https://github.com/bjtj/githubactiontest/actions/workflows/python-unittest.yml/badge.svg)
+![example workflow](https://github.com/bjtj/githubactiontest/actions/workflows/python-unittest-main.yml/badge.svg)
 
 dev branch status
 
