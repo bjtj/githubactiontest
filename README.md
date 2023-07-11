@@ -2,7 +2,11 @@
 
 ![example workflow](https://github.com/bjtj/githubactiontest/actions/workflows/python-unittest-main.yml/badge.svg)
 
-dev branch status
+python-unittest-main.yml (main branch)
+
+![python unittest workflow dev branch](https://github.com/bjtj/githubactiontest/actions/workflows/python-unittest-main.yml/badge.svg)
+
+python-unittest.yml (dev branch)
 
 ![python unittest workflow dev branch](https://github.com/bjtj/githubactiontest/actions/workflows/python-unittest.yml/badge.svg?branch=dev)
 
